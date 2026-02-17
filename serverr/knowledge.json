@@ -1,0 +1,217 @@
+{
+  "platform_identity": {
+    "name": "Sahayak",
+    "type": "Integrated Social-Technology Platform",
+    "target_groups": [
+      "Senior Citizens",
+      "Specially-Abled Individuals",
+      "Mobility Assistants",
+      "Caretakers",
+      "Volunteers",
+      "Donors"
+    ],
+    "core_objective": "To create an accessible, secure, and inclusive digital ecosystem for dependent communities."
+  },
+
+  "core_modules": {
+    "travel_assistance": {
+      "purpose": "Enable users to book verified mobility assistants for safe travel.",
+      "how_it_works": [
+        "User registers and logs in.",
+        "User selects Travel Assistance module.",
+        "User enters pickup location, destination, and time.",
+        "AI matching algorithm recommends assistants.",
+        "User reviews assistant profile and rating.",
+        "User confirms booking.",
+        "Digital payment is processed securely.",
+        "Live tracking is enabled."
+      ],
+      "ai_matching_logic": {
+        "factors": [
+          "Distance between user and assistant",
+          "Skill match",
+          "Availability status",
+          "Assistant rating",
+          "Past feedback"
+        ],
+        "model_type": "Binary classification assistant selection model"
+      },
+      "assistant_responsibility": [
+        "Reach on time",
+        "Ensure user safety",
+        "Assist with mobility needs",
+        "Follow ethical conduct policy"
+      ]
+    },
+
+    "accessible_places_directory": {
+      "purpose": "Help users find public places with accessibility support.",
+      "filters_available": [
+        "Ramp access",
+        "Elevator access",
+        "Accessible restroom",
+        "Wheelchair-friendly pathway",
+        "Low-height service counters"
+      ],
+      "user_actions": [
+        "Search by location",
+        "Apply accessibility filters",
+        "View accessibility score",
+        "Submit review",
+        "Add new place (Open Tagged system)"
+      ],
+      "open_tagged_system": {
+        "definition": "Open Tagging allows users to tag public places with accessibility features.",
+        "workflow": [
+          "User visits location",
+          "User selects accessibility features",
+          "User submits verification image",
+          "Community verifies accuracy",
+          "Accessibility score updates"
+        ]
+      }
+    },
+
+    "government_schemes_hub": {
+      "purpose": "Provide structured access to welfare schemes.",
+      "features": [
+        "Scheme categorization by disability type",
+        "Age-based filtering",
+        "Income-based eligibility guidance",
+        "Direct redirection to official portals"
+      ],
+      "user_steps": [
+        "Select disability category",
+        "Select age group",
+        "View relevant schemes",
+        "Read eligibility",
+        "Click apply via official link"
+      ]
+    },
+
+    "caretaker_booking": {
+      "purpose": "Allow families to hire verified caretakers.",
+      "features": [
+        "Experience listing",
+        "Skill specialization",
+        "Verification badge",
+        "Hourly or monthly booking",
+        "Background check status"
+      ],
+      "caretaker_responsibilities": [
+        "Provide daily care",
+        "Assist in medication routines",
+        "Report emergency situations",
+        "Maintain respectful communication"
+      ]
+    },
+
+    "donation_support": {
+      "purpose": "Connect donors with orphanages and community campaigns.",
+      "donor_roles": [
+        "Financial contribution",
+        "Event sponsorship",
+        "Material donation",
+        "Campaign support"
+      ],
+      "donation_process": [
+        "Donor registers",
+        "Select orphanage or campaign",
+        "Choose donation type",
+        "Confirm secure payment",
+        "Receive donation receipt",
+        "Track impact report"
+      ],
+      "transparency_policy": "All donations are recorded and visible in dashboard.",
+      "impact_tracking": "Donors receive periodic updates about fund usage."
+    },
+
+    "volunteer_coordination": {
+      "purpose": "Enable community engagement.",
+      "volunteer_roles": [
+        "Event assistance",
+        "Community outreach",
+        "Teaching support",
+        "Accessibility survey participation"
+      ],
+      "workflow": [
+        "Volunteer registers",
+        "Browse available events",
+        "Select preferred event",
+        "Confirm participation",
+        "Receive event details"
+      ]
+    }
+  },
+
+  "community_building": {
+    "goal": "Promote inclusion and collaborative support.",
+    "features": [
+      "Community events",
+      "Story sharing platform",
+      "Discussion forums",
+      "Volunteer meetups"
+    ]
+  },
+
+  "user_roles_and_dashboards": {
+    "senior_citizen_dashboard": [
+      "Book assistant",
+      "Search accessible places",
+      "Check schemes",
+      "Request caretaker"
+    ],
+    "assistant_dashboard": [
+      "View booking requests",
+      "Accept or reject booking",
+      "Update availability",
+      "Track earnings"
+    ],
+    "donor_dashboard": [
+      "View campaigns",
+      "Track donation history",
+      "Download receipts",
+      "See impact reports"
+    ]
+  },
+
+  "platform_policies": {
+    "verification": "Assistants and caretakers undergo background verification.",
+    "privacy": "User data is stored securely.",
+    "payment_security": "Payments are processed through encrypted gateways.",
+    "code_of_conduct": "All users must follow respectful communication standards."
+  },
+
+  "accessibility_features": {
+    "ui_controls": [
+      "Increase text size",
+      "Decrease text size",
+      "Language toggle (English/Hindi)",
+      "Voice interaction",
+      "Maximize chat window"
+    ],
+    "design_principles": [
+      "Large readable fonts",
+      "High contrast color scheme",
+      "Minimal navigation complexity",
+      "Voice accessibility"
+    ]
+  },
+
+  "chatbot_scope": {
+    "allowed_topics": [
+      "Platform navigation",
+      "Service booking",
+      "Role explanation",
+      "Government schemes",
+      "Donation process",
+      "Volunteer participation",
+      "Accessibility directory"
+    ],
+    "restricted_topics": [
+      "General academic questions",
+      "Programming help",
+      "External unrelated topics"
+    ]
+  }
+}
