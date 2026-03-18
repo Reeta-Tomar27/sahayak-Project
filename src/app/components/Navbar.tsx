@@ -16,6 +16,7 @@ export function Navbar() {
             <a href="#about" className="text-gray-600 hover:text-[#2563EB] transition-colors">About</a>
             <a href="#how-it-works" className="text-gray-600 hover:text-[#2563EB] transition-colors">How It Works</a>
             <a href="#impact" className="text-gray-600 hover:text-[#2563EB] transition-colors">Impact</a>
+            <Link to="/government-schemes" className="text-gray-600 hover:text-[#2563EB] transition-colors">Schemes</Link>
             <Link to="/login" className="text-gray-600 hover:text-[#2563EB] transition-colors">Login</Link>
             <Link 
               to="/role-selection" 

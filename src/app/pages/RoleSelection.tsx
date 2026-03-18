@@ -1,4 +1,4 @@
-import { Link } from "react-router";
+import { Link, useSearchParams } from "react-router";
 import { Users, Heart, Home, Gift, User, Briefcase } from "lucide-react";
 
 const roles = [
@@ -47,6 +47,20 @@ const roles = [
 ];
 
 export default function RoleSelection() {
+  const [searchParams] = useSearchParams();
+  const intent = searchParams.get("intent");
+
+  const getPath = (defaultPath: string) => {
+    if (intent === "schemes") {
+      // defaultPath looks like "/signup?role=specially-abled"
+      // we want to extract the role and return "/government-schemes/[role]"
+      const url = new URL(defaultPath, "http://localhost");
+      const role = url.searchParams.get("role");
+      return `/government-schemes/${role}`;
+    }
+    return defaultPath;
+  };
+
   return (
     <div className="min-h-screen bg-[#F8FAFC] flex items-center justify-center py-16 px-8">
       <div className="max-w-6xl w-full">
@@ -57,15 +71,19 @@ export default function RoleSelection() {
             </div>
             <span className="text-2xl font-semibold text-gray-900">Sahayak</span>
           </Link>
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">Choose Your Role</h1>
-          <p className="text-xl text-gray-600">Select the role that best describes you</p>
+          <h1 className="text-4xl font-bold text-gray-900 mb-4">
+            {intent === "schemes" ? "Government Schemes" : "Choose Your Role"}
+          </h1>
+          <p className="text-xl text-gray-600">
+            {intent === "schemes" ? "Select your category to explore relevant welfare programs" : "Select the role that best describes you"}
+          </p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-8">
           {roles.map((role, idx) => (
             <Link
               key={idx}
-              to={role.path}
+              to={getPath(role.path)}
               className="bg-white p-8 rounded-2xl border-2 border-gray-200 hover:border-[#2563EB] hover:shadow-xl transition-all group"
             >
               <div

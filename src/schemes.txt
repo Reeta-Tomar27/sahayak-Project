@@ -1,0 +1,124 @@
+first scheme:
+
+1. Overview
+The Indira Gandhi National Old Age Pension Scheme (IGNOAPS) is a centrally sponsored social security program launched by the Ministry of Rural Development. It aims to provide financial stability to senior citizens who are living below the poverty line and have little to no regular means of subsistence.
+
+Monthly Pension: ₹200 for beneficiaries aged 60–79 years.
+
+Increased Pension: ₹500 for beneficiaries aged 80 years and above.
+
+Note: State governments often add a top-up amount to this central contribution, so the total amount received varies by state.
+
+2. Eligibility
+To qualify for this scheme, the applicant must meet the following criteria:
+
+Nationality: Must be a citizen of India.
+
+Age: Must be 60 years of age or older.
+
+Economic Status: Must belong to a household living Below Poverty Line (BPL) according to the criteria prescribed by the Government of India.
+
+3. Required Documents
+The following documents are necessary for the application process:
+
+Application Form: Duly filled and self-attested.
+
+Proof of Identity/Residence: Aadhaar Card, Voter ID, or Electricity Bill.
+
+Age Proof: Birth Certificate, School Leaving Certificate, or a certificate from a Medical Board/SHO.
+
+Income/Poverty Proof: BPL Ration Card or BPL Certificate.
+
+Bank Details: Copy of the Bank Passbook (for direct pension transfer).
+
+Affidavit: A declaration attested by a Judicial/Executive Magistrate stating the applicant is not receiving any other pension or financial assistance from other sources.
+
+4. How to Apply
+The application can be processed through both online and offline channels:
+
+Online Method:
+
+Visit the official UMANG website (web.umang.gov.in) or download the UMANG App.
+
+Login using your mobile number and OTP.
+
+Search for "NSAP" (National Social Assistance Programme).
+
+Select "Apply Online" and fill in the required personal and bank details.
+
+Upload your photograph and documents, then click "Submit."
+
+Offline Method:
+
+Visit the Social Welfare Department, Jan Seva Kendra (CSCs), or the Block Development Officer (BDO) in rural areas.
+
+In urban areas, approach the District Social Welfare Officer.
+
+Submit the physical application form along with the required documents mentioned above.
+
+5. Application Tracking
+Once submitted, you can track the status of your application via the NSAP Dashboard or the UMANG App using the application number or your Aadhaar number provided during registration.
+
+6. YouTube Helpful Links
+For visual guides on the application process and scheme details, you can refer to these helpful search results:
+
+How to Apply for Old Age Pension via UMANG App
+
+IGNOAPS Scheme Details and Eligibility Explained
+
+NSAP Pension Status Check Guide
+
+
+Second :
+
+1. Overview
+Ayushman Bharat PM-JAY is the world’s largest health insurance scheme fully financed by the government. It provides a health cover of ₹5 Lakh per family per year for secondary and tertiary care hospitalization.
+
+Recent Major Expansion (September 2024): The Union Cabinet approved health coverage for all senior citizens aged 70 and above, regardless of their socio-economic status or income. This specific expansion aims to benefit approximately 6 crore senior citizens across India.
+
+2. Eligibility
+With the new 2024 update, eligibility has been significantly broadened for senior citizens:
+
+Age-Based Eligibility: Every Indian citizen aged 70 years and above is now eligible.
+
+Income Neutral: For those 70+, there is no income limit or socio-economic requirement (unlike the original scheme which was based on SECC 2011 data).
+
+Choice of Scheme: Seniors already using public health schemes (CGHS, ECHS, CAPF) can choose to either stay with their current scheme or switch to AB PM-JAY.
+
+Private Insurance Holders: Even those with private health insurance or ESIC are eligible for the ₹5 Lakh cover under PM-JAY.
+
+3. Required Documents
+To apply for the Ayushman Card, you typically need:
+
+Aadhaar Card: This is the primary document for identity and age verification.
+
+Active Mobile Number: For OTP verification during the registration process.
+
+Ration Card / Family ID: To establish family relationships (especially for top-up benefits).
+
+4. How to Apply
+Eligible senior citizens can apply through the following steps:
+
+Self-Registration: Visit the official portal beneficiary.nha.gov.in or download the Ayushman App.
+
+Authentication: Enter your mobile number, receive an OTP, and select your State/Scheme.
+
+e-KYC: Use Aadhaar-based OTP, Fingerprint, or Iris scan to complete the e-KYC process.
+
+Assisted Registration: You can also visit the nearest Common Service Center (CSC), Empanelled Hospital, or UTI-ITSL center for assistance.
+
+5. Application (The Ayushman Card)
+New Distinct Card: Eligible senior citizens aged 70+ will be issued a new, distinct card specifically for this category.
+
+Top-Up Feature: If a senior citizen's family is already covered under PM-JAY, the senior citizen gets an additional ₹5 Lakh top-up exclusively for their use (they do not have to share this specific 5 lakh with younger family members).
+
+Family Basis: If the senior's family is not already covered, they receive the ₹5 Lakh cover on a family basis for themselves and their spouse (if also 70+).
+
+6. YouTube Helpful Links
+For step-by-step visual instructions and recent updates, these search queries provide the most relevant guides:
+
+How to Apply for Ayushman Card for Senior Citizens 70+ (Step-by-Step)
+
+Ayushman Bharat PM-JAY New Update 2024 Explained
+
+How to download Ayushman Card online

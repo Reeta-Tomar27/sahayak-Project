@@ -149,7 +149,7 @@ export const speciallyAbledMenu = [
   { icon: <Map size={20} />, label: "OTM Accessibility Map", path: "/specially-abled/otm-map" },
   { icon: <Route size={20} />, label: "Plan Trip", path: "/specially-abled/plan-trip" },
   { icon: <Users size={20} />, label: "Book Assistant", path: "/specially-abled/book-assistant" },
-  { icon: <BookOpen size={20} />, label: "Government Schemes", path: "/specially-abled/government-schemes" },
+  { icon: <BookOpen size={20} />, label: "Government Schemes", path: "/government-schemes" },
   { icon: <MessageSquare size={20} />, label: "Community", path: "/specially-abled/community" },
   { icon: <User size={20} />, label: "Profile", path: "/specially-abled/profile" },
 ];
@@ -158,7 +158,7 @@ export const seniorCitizenMenu = [
   { icon: <LayoutDashboard size={20} />, label: "Dashboard", path: "/senior-citizen/dashboard" },
   { icon: <Users size={20} />, label: "Book Caretaker", path: "/senior-citizen/book-caretaker" },
   { icon: <Heart size={20} />, label: "Story Sharing", path: "/senior-citizen/story-sharing" },
-  { icon: <BookOpen size={20} />, label: "Government Schemes", path: "/senior-citizen/government-schemes" },
+  { icon: <BookOpen size={20} />, label: "Government Schemes", path: "/government-schemes" },
   { icon: <MessageSquare size={20} />, label: "Community", path: "/senior-citizen/community" },
   { icon: <User size={20} />, label: "Profile", path: "/senior-citizen/profile" },
 ];
@@ -167,7 +167,7 @@ export const orphanHomeMenu = [
   { icon: <LayoutDashboard size={20} />, label: "Dashboard", path: "/orphan-home/dashboard" },
   { icon: <Gift size={20} />, label: "Manage Donations", path: "/orphan-home/manage-donations" },
   { icon: <GraduationCap size={20} />, label: "Learning Sessions", path: "/orphan-home/learning-sessions" },
-  { icon: <BookOpen size={20} />, label: "Government Schemes", path: "/orphan-home/government-schemes" },
+  { icon: <BookOpen size={20} />, label: "Government Schemes", path: "/government-schemes" },
   { icon: <MessageSquare size={20} />, label: "Community", path: "/orphan-home/community" },
   { icon: <User size={20} />, label: "Profile", path: "/orphan-home/profile" },
 ];

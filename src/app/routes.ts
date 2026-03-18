@@ -4,6 +4,11 @@ import RoleSelection from "./pages/RoleSelection";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 
+// Government Schemes Flow
+import GsRoleSelection from "./pages/GovernmentSchemes/RoleSelection";
+import GsSchemesList from "./pages/GovernmentSchemes/SchemesList";
+import GsSchemeDetails from "./pages/GovernmentSchemes/SchemeDetails";
+
 // Specially-Abled Dashboard
 import SpeciallyAbledDashboard from "./pages/SpeciallyAbled/Dashboard";
 import OTMMap from "./pages/SpeciallyAbled/OTMMap";
@@ -53,6 +58,19 @@ export const router = createBrowserRouter([
   {
     path: "/signup",
     Component: Signup,
+  },
+  // Government Schemes Flow
+  {
+    path: "/government-schemes",
+    Component: GsRoleSelection,
+  },
+  {
+    path: "/government-schemes/:role",
+    Component: GsSchemesList,
+  },
+  {
+    path: "/government-schemes/:role/:schemeId",
+    Component: GsSchemeDetails,
   },
   // Specially-Abled Routes
   {
